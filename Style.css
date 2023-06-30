@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+body{
+    background-color: #e63946;
+    font-family: 'Comfortaa', cursive;
+}
+div{
+    float: left;
+    box-shadow: 0px 0px 10px  #2d303f;
+}
+.one_Card{
+    background-color: black;
+    color: white;
+    height: 50vh;
+    width: 15vw;
+    position: relative;
+    top: 28vh;
+    left: 28vw;  
+    padding: 10px;
+    border-radius: 30px;
+    transform: rotate(-12deg);
+
+}
+.two_Card{
+    background-color: white;
+    color: black;
+    height: 58vh;
+    width: 15vw;
+    position: relative;
+    top: 26vh;
+    left: 25vw; 
+    padding: 10px;
+    border-radius: 30px; 
+    transform: rotate(18deg);  
+
+}
+.three_Card{
+    background-color: white;
+    color: black;
+    height: 49.9vh;
+    width: 15vw;
+    position: relative;
+    top: 34vh;
+    left: 8vw; 
+    padding: 10px;
+    border-radius: 30px; 
+    transform: rotate(18deg); 
+    box-shadow: 0px 0px 5px  #2d303f;
+    
+}
+#bottom_Foot{
+    margin-top: 220px;
+    font-size: 14px;
+}
+#bottom_Footer{
+    margin-top: 200px;
+    font-size: 14px;
+}
